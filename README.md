@@ -1918,6 +1918,7 @@ function Squash-Commits {
 ```
 
 # Other Resources
+*Awesome Robotics projects[https://electronicsforu.com/electronics-projects/hardware-diy/25-robotics-project-ideas]
 
 ## Books
 
